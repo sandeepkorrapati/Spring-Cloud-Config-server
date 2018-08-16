@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: employee-config
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Sandeep Korrapati
+Implementation-Vendor-Id: com.niu
+Build-Jdk: 1.8.0_171
+Implementation-URL: http://projects.spring.io/spring-boot/EmployeeConf
+ igServer/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
